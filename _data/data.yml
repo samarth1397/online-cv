@@ -25,16 +25,20 @@ sidebar:
 
     languages:
       - idiom: English
-        # level: Professional
+        level: Proficient
 
       - idiom: Hindi
-        # level: Native
+        level: Proficient
         
         
     interests:
-      - item: Natural Language Processing
+      - item: Natural Language Processing & Understanding
         link:
-
+      - item: Information Retrieval
+        link:
+      - item: Cognitive Science
+        link:
+          
       # - item: Deep House
         # link:
 
@@ -42,24 +46,19 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      I'm interested in developing artificial agents which are inspired from human cognition. My primary research interests lie at the intersection
+      of Natural Language Understanding and Cognitive Science. 
 
 education:
     - degree: B.E (Hons.) Computer Science
-      university: Birla Institute of Technology and Science Pilani
+      university: Birla Institute of Technology and Science, Pilani
       time: 2015-2019
       details: |
 
-          - • Core: Probability and Statistics, Discrete Structures in Computer Science, Database Management Systems, Data
+          - Core: Probability and Statistics, Discrete Structures in Computer Science, Database Management Systems, Data
               Structures and Algorithms, Multivariate Calculus, Linear Algebra, Differential Equations, Design and Analysis of
               Algorithms
-          - • Electives: Machine Learning, Bioinformatics, Neural Networks, Information Retrieval, Data Mining, Computer Vision
+          - Electives: Machine Learning, Bioinformatics, Neural Networks, Information Retrieval, Data Mining, Computer Vision
               Reading Course
           
 
@@ -160,12 +159,3 @@ skills:
 
       - name: C
         level: 40%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
