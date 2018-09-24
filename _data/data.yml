@@ -25,18 +25,18 @@ sidebar:
 
     languages:
       - idiom: English
-        level: Professional
+        # level: Professional
 
       - idiom: Hindi
-        level: Native
+        # level: Native
         
         
     interests:
-      - item: Manchester United
+      - item: Natural Language Processing
         link:
 
-      - item: Deep House
-        link:
+      # - item: Deep House
+        # link:
 
 
 career-profile:
