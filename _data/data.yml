@@ -102,6 +102,21 @@ experiences:
           - Bullet point
           - Bullet point
 
+
+    - role: Summer Intern
+      time: May, 2017 - July, 2017
+      company: Mumbai Rail Vikas Corporation Ltd., Govt. of India
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+
     - role: Teaching Assistant
       time: Jan, 2017 - May, 2017 
       company: Introduction to Computer Programming, BITS Pilani
@@ -114,6 +129,7 @@ experiences:
 
           - Bullet point
           - Bullet point
+
 
 projects:
     title: Projects
