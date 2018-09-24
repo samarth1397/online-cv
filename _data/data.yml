@@ -55,21 +55,17 @@ education:
       university: Birla Institute of Technology and Science Pilani
       time: 2015-2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 
-          - Bullet point
-          - Bullet point 
+          - • Core: Probability and Statistics, Discrete Structures in Computer Science, Database Management Systems, Data
+              Structures and Algorithms, Multivariate Calculus, Linear Algebra, Differential Equations, Design and Analysis of
+              Algorithms
+          - • Electives: Machine Learning, Bioinformatics, Neural Networks, Information Retrieval, Data Mining, Computer Vision
+              Reading Course
+          
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro: 
 
     papers:
       - title: A new automatic text summarization technique using topic modelling
@@ -153,17 +149,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python 
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Java
+        level: 60%
 
-      - name: Angular
-        level: 98%
+      - name: R
+        level: 60%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: C
+        level: 40%
 
       - name: Ruby on Rails
         level: 85%
