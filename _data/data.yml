@@ -61,6 +61,21 @@ education:
           - Electives: Machine Learning, Bioinformatics, Neural Networks, Information Retrieval, Data Mining, Computer Vision
               Reading Course
           
+    - degree: CBSE (12th Grade)
+      university: R.N Podar School
+      time: 2013-2015
+      details: |
+          - Core: Math, Physics, Chemistry, English
+          - Electives: Economics
+          
+    - degree: ICSE (10th Grade)
+      university: Maneckji Cooper Education Trust School
+      time: 2005-2013
+      details: |
+          - Core: Math, Physics, Chemistry, Biology, Geography, History, English
+          - Electives: Technical Drawing, Hindi
+          
+
 
 publications:
     title: Publications
@@ -120,31 +135,19 @@ experiences:
           - Helped students in the laboratory component of the course by clarifying their doubts.
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    # intro: >
+      # You can list your side projects or open source libraries in this
+      # section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Gutenberg-Analyser
+        link: "http://github.com/samarth1397/AnalyseGutenberg"
+        tagline: "A python pipeline which scrapes Project Gutenberg for content, extracts stylistic features and
+                  document vectors, performs topic modelling and finally compares corpora based on a number of distance
+                  metrics."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
 skills:
