@@ -78,42 +78,46 @@ experiences:
       details: |
         Advisor: Dr. Amy Perfors
 
-          - Bullet point
-          - Bullet point 
+          - Using bayesian networks to model psychological essentialism and causal structures in people's representations.
+          - Developed a new methodology for the automated identification of generic noun phrases. 
 
     - role: Summer Research Intern
       time: May, 2018 - July, 2018
       company: Institute for Natural Language Processing, University of Stuttgart
       details: |
-        Advisors: Dr. Nils Reiter and Dr. Jonas Kuhn
-          - Bullet point
-          - Bullet point
-
+        Advisor: Dr. Nils Reiter 
+          - The aim of the project was to develop a research tool which could automatically detect intertextual
+            references and allusions made in literary texts by evaluating syntactic and semantic similarity.
+          - A proof-of-concept and description of our methodology can be found here: http://github.com/samarth1397/DetectingAllusion.
 
     - role: Summer Intern
-      time: May, 2017 - July, 2017
+      time: May, 2017 - Aug, 2017
       company: Mumbai Rail Vikas Corporation Ltd., Govt. of India
       details: |
+          - Analyzed the correlation between the number of passengers using the train service and various features
+            such as weather conditions, public holidays, day of the week etc.
+          - Developed a model which could predict the expected number of passengers one week in advance to the
+            actual date.
 
 
-          - Bullet point
-          - Bullet point
+
+    - role: Community Volunteer
+      time: May, 2017 - Aug, 2017 
+      company: Intermine, University of Cambridge
+      details: |
+          - Created a set of jupyter-notebook tutorials that demonstrate the functionality of the python package
+            that can be used to query the Intermine biological database which is maintained by the Micklem Lab,
+            Department of Genetic, University of Cambridge.
+          - The tutorials can be found here: http://github.com/intermine/intermine-ws-python-docs
+
 
 
     - role: Teaching Assistant
       time: Jan, 2017 - May, 2017 
-      company: Introduction to Computer Programming, BITS Pilani
+      company: Introduction to Computer Programming, Dept. of Computer Scinece, BITS Pilani
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-
+          - Designed the questions for the evaluated lab components and graded student performance in the lab.
+          - Helped students in the laboratory component of the course by clarifying their doubts.
 projects:
     title: Projects
     intro: >
