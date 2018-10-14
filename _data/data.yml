@@ -124,9 +124,9 @@ experiences:
       company: Intermine, University of Cambridge
       details: |
           - Intermine is an open-source biological database of genomic data maintained by the Department of Genetics,
-University of Cambridge
+            University of Cambridge
           -Created a set of jupyter-notebook tutorials that demonstrated the functionality of the Python package which can
-be used to query the database to extract genomic data
+            be used to query the database to extract genomic data
           - The tutorials can be found here: http://github.com/intermine/intermine-ws-python-docs
 
 
