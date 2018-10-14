@@ -19,7 +19,7 @@ sidebar:
     github: samarth1397
     gitlab:
     bitbucket:
-    twitter: '@FatCantona'
+    # twitter: '@FatCantona'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
@@ -47,7 +47,7 @@ career-profile:
     title: Career Profile
     summary: |
       I'm interested in developing artificial agents which are inspired from human cognition. My primary research interests lie at the intersection
-      of Natural Language Understanding and Cognitive Science. 
+      of Natural Language Understanding and Cognitive Science. I'm also interested in Information Retrieval and Digital Humanities.
 
 education:
     - degree: B.E (Hons.) Computer Science
@@ -84,35 +84,38 @@ publications:
     papers:
       - title: A new automatic text summarization technique using topic modelling
         authors: Rajendra Roul, Samarth Mehrotra, Yash Pungaliya, Jajati Sahoo
-        conference: Springer Lecture Notes in Computer Science, 2019
+        conference: Springer Lecture Notes in Computer Science, 2019 [Will be presented at ICDCIT, 2019]
 
 experiences:
-    - role: Research Assistant
+    - role: Research Assistant (Undergraduate Thesis)
       time: August, 2018 - Present
       company: Computational Cognitive Science Lab, University of Melbourne
       details: |
         Advisor: Dr. Amy Perfors
 
-          - Using bayesian networks to model psychological essentialism and causal structures in people's representations.
-          - Developed a new methodology for the automated identification of generic noun phrases. 
+          - Developed a computational framework to identify the presence of latent causal variables in psychological
+            representations
+          - Developed a new algorithm for the automated identification of Generic Noun Phrases (a linguistic form which plays
+            a key role in the development of essentialist beliefs in children)
 
     - role: Summer Research Intern
       time: May, 2018 - July, 2018
       company: Institute for Natural Language Processing, University of Stuttgart
       details: |
         Advisor: Dr. Nils Reiter 
-          - The aim of the project was to develop a research tool which could automatically detect intertextual
-            references and allusions made in literary texts by evaluating syntactic and semantic similarity.
+          - Developed a research tool which automatically detects intertextual references and allusions made in literary texts
+by evaluating syntactic and semantic similarity
+          -The tool has been used by literary researchers at the University of Stuttgart to study intertextual references made
+            by the German Philosopher, Friedrich Nietzsche.
           - A proof-of-concept and description of our methodology can be found here: http://github.com/samarth1397/DetectingAllusion.
 
     - role: Summer Intern
-      time: May, 2017 - Aug, 2017
+      time: May, 2017 - August, 2017
       company: Mumbai Rail Vikas Corporation Ltd., Govt. of India
       details: |
-          - Analyzed the correlation between the number of passengers using the train service and various features
-            such as weather conditions, public holidays, day of the week etc.
-          - Developed a model which could predict the expected number of passengers one week in advance to the
-            actual date.
+          - Analyzed the correlation between the number of passengers using the train service and various variables such as
+weather conditions, public holidays, day of the week etc
+          - Developed a model which can predict the expected number of passengers a week in advance to any given date
 
 
 
@@ -120,19 +123,20 @@ experiences:
       time: May, 2017 - Aug, 2017 
       company: Intermine, University of Cambridge
       details: |
-          - Created a set of jupyter-notebook tutorials that demonstrate the functionality of the python package
-            that can be used to query the Intermine biological database which is maintained by the Micklem Lab,
-            Department of Genetic, University of Cambridge.
+          - Intermine is an open-source biological database of genomic data maintained by the Department of Genetics,
+University of Cambridge
+          -Created a set of jupyter-notebook tutorials that demonstrated the functionality of the Python package which can
+be used to query the database to extract genomic data
           - The tutorials can be found here: http://github.com/intermine/intermine-ws-python-docs
 
 
 
     - role: Teaching Assistant
       time: Jan, 2017 - May, 2017 
-      company: Introduction to Computer Programming, Dept. of Computer Scinece, BITS Pilani
+      company: Dept. of Computer Scinece, BITS Pilani
       details: |
-          - Designed the questions for the evaluated lab components and graded student performance in the lab.
-          - Helped students in the laboratory component of the course by clarifying their doubts.
+          - Tutored students in the course: Introduction to Computer Programming
+          - Designed examination questions for the course and evaluated student performance in the laboratory
 projects:
     title: Projects
     # intro: >
@@ -146,8 +150,14 @@ projects:
         tagline: "A python pipeline which scrapes Project Gutenberg for content, extracts stylistic features and
                   document vectors, performs topic modelling and finally compares corpora based on a number of distance
                   metrics."
-
-
+      - title: Extractive Text Summarizer
+        # link: "http://github.com/samarth1397/AnalyseGutenberg"
+        tagline: "Added a concept-based filtering step which uses the Latent Dirichlet Allocation algorithm, to existing
+                  sentence-selection based extractive text summarization techniques."
+      - title: Reinforcement Learning Algorithms for Mortgage Refinancing
+        link: "http://github.com/samarth1397/AnalyseGutenberg"
+        tagline: "Implemented an actor-critic algorithm for mortgage refinancing."
+        
 
 
 skills:
