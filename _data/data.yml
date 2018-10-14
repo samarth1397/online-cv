@@ -152,7 +152,7 @@ projects:
                   document vectors, performs topic modelling and finally compares corpora based on a number of distance
                   metrics."
       - title: Extractive Text Summarizer
-        # link: "http://github.com/samarth1397/AnalyseGutenberg"
+        link: "https://samarth1397.github.io/online-cv/ICDCIT.pdf"
         tagline: "Added a concept-based filtering step which uses the Latent Dirichlet Allocation algorithm, to existing
                   sentence-selection based extractive text summarization techniques."
       - title: Reinforcement Learning Algorithms for Mortgage Refinancing
