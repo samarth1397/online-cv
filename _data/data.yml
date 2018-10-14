@@ -104,7 +104,7 @@ experiences:
       details: |
         Advisor: Dr. Nils Reiter 
           - Developed a research tool which automatically detects intertextual references and allusions made in literary texts
-by evaluating syntactic and semantic similarity
+            by evaluating syntactic and semantic similarity
           -The tool has been used by literary researchers at the University of Stuttgart to study intertextual references made
             by the German Philosopher, Friedrich Nietzsche.
           - A proof-of-concept and description of our methodology can be found here: http://github.com/samarth1397/DetectingAllusion.
@@ -114,13 +114,13 @@ by evaluating syntactic and semantic similarity
       company: Mumbai Rail Vikas Corporation Ltd., Govt. of India
       details: |
           - Analyzed the correlation between the number of passengers using the train service and various variables such as
-weather conditions, public holidays, day of the week etc
+            weather conditions, public holidays, day of the week etc
           - Developed a model which can predict the expected number of passengers a week in advance to any given date
 
 
 
     - role: Community Volunteer
-      time: May, 2017 - Aug, 2017 
+      time: May, 2017 - August, 2017 
       company: Intermine, University of Cambridge
       details: |
           - Intermine is an open-source biological database of genomic data maintained by the Department of Genetics,
@@ -132,7 +132,7 @@ be used to query the database to extract genomic data
 
 
     - role: Teaching Assistant
-      time: Jan, 2017 - May, 2017 
+      time: January, 2017 - May, 2017 
       company: Dept. of Computer Scinece, BITS Pilani
       details: |
           - Tutored students in the course: Introduction to Computer Programming
@@ -157,7 +157,7 @@ projects:
       - title: Reinforcement Learning Algorithms for Mortgage Refinancing
         link: "http://github.com/samarth1397/AnalyseGutenberg"
         tagline: "Implemented an actor-critic algorithm for mortgage refinancing."
-        
+
 
 
 skills:
