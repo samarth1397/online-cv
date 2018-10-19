@@ -156,7 +156,7 @@ projects:
         tagline: "Added a concept-based filtering step which uses the Latent Dirichlet Allocation algorithm, to existing
                   sentence-selection based extractive text summarization techniques."
       - title: Reinforcement Learning Algorithms for Mortgage Refinancing
-        link: "https://github.com/kaivalyar/RLStudyProject
+        link: "https://github.com/kaivalyar/RLStudyProject"
         tagline: "Implemented an actor-critic algorithm for mortgage refinancing."
 
 
