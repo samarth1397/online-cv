@@ -86,7 +86,7 @@ publications:
         authors: Rajendra Roul, Samarth Mehrotra, Yash Pungaliya, Jajati Sahoo
         conference: Springer Lecture Notes in Computer Science, 2019 [Will be presented at ICDCIT, 2019]
                     <br/>
-                    <a href='ICDCIT.pdf'  target="_blank"> Click to view a pre-print version.</a>
+                    <a href='ICDCIT-Final.pdf'  target="_blank"> Click to view a pre-print version.</a>
 experiences:
     - role: Research Assistant (Undergraduate Thesis)
       time: August, 2018 - Present
@@ -152,7 +152,7 @@ projects:
                   document vectors, performs topic modelling and finally compares corpora based on a number of distance
                   metrics."
       - title: Extractive Text Summarizer
-        link: "https://samarth1397.github.io/online-cv/ICDCIT.pdf"
+        link: "https://samarth1397.github.io/online-cv/ICDCIT-Final.pdf"
         tagline: "Added a concept-based filtering step which uses the Latent Dirichlet Allocation algorithm, to existing
                   sentence-selection based extractive text summarization techniques."
       - title: Reinforcement Learning Algorithms for Mortgage Refinancing
