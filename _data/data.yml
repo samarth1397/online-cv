@@ -86,7 +86,7 @@ publications:
         authors: Rajendra Roul, Samarth Mehrotra, Yash Pungaliya, Jajati Sahoo
         conference: Springer Lecture Notes in Computer Science, 2019 [Will be presented at ICDCIT, 2019]
                     <br/>
-                    <a href='ICDCIT-2019.pdf'  target="_blank"> Click to view a pre-print version.</a>
+                    #<a href='ICDCIT-2019.pdf'  target="_blank"> Click to view a pre-print version.</a>
 experiences:
     - role: Research Assistant (Undergraduate Thesis)
       time: August, 2018 - Present
